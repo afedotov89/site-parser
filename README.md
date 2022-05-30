@@ -6,7 +6,7 @@ A convenient library for everyday parsing of sites
 Install
 -------
 
-    # TODO
+    pip3 install git+https://github.com/afedotov89/site-parser@f830001f275b25c051ac3a1bf096f7e050f3c9c9
 
 Usage
 -----
